@@ -82,6 +82,7 @@ pygments_style = 'sphinx'
 # If true, `todo` and `todoList` produce output, else they produce nothing.
 todo_include_todos = False
 
+plantuml = 'java -jar ./plantuml.jar'
 plantuml_output_format = 'svg'
 # -- Options for HTML output ----------------------------------------------
 
