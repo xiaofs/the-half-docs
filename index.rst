@@ -5,3 +5,8 @@
    :maxdepth: 2
 
 
+.. uml::
+
+    start
+    :休息;
+    stop
